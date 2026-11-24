@@ -44,3 +44,10 @@ nav:
       - design-decisions/0001-licensing.md
       - design-decisions/0002-concept.md
       - design-decisions/0003-fold-mechanism.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
