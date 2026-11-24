@@ -15,7 +15,16 @@ redrawn from scratch.
 | Reference | What we retain |
 |---|---|
 | A commercial closable arcade cabinet (crowdfunded; reference to be added — see TODO) | Storage base with double doors, transformable arcade module, clean "furniture" look, colour-blocked front, 2 joysticks + 6 buttons per player |
-| *"This Arcade Machine is hidden in plain sight! And This is how I Built It!"* by Alexandre Chappel — <https://youtu.be/OB8VauGEvqg> | Homemade construction method, hidden-arcade principle, workshop-level tooling |
+| *"This Arcade Machine is hidden in plain sight! And This is how I Built It!"* by Alexandre Chappel — <https://youtu.be/OB8VauGEvqg> | Homemade construction method, hidden-arcade principle, workshop-level tooling. Its [sales page](https://www.alch.shop/projects/p/arcade-cabinet) sells paid plans (metric drawings, 3D-print files, parts list with links, video resources) for a cabinet built from **a single sheet of 16 mm plywood**, on a Raspberry Pi with RetroPie. |
+
+### What we keep, change and add vs. the plan set above
+
+| | Keep | Change / add |
+|---|---|---|
+| Material | Sheet-material construction, **metric drawings**, 3D-printed small parts | Evaluate whether the whole cabinet can still come from few sheets (cut-list optimisation, see R8) |
+| Documentation | Parts list with links, video resources, clear "what is included" note | **Free and open**, with a **full wiring diagram** and safety guide (the reference explicitly excludes electronics support), BOM with quantities, prices and alternatives, bilingual |
+| Scope | 2 players, RetroPie-style software | Closable furniture-style base with storage (first reference) |
+| Licence | — | Open licences with mandatory credit (see ADR 0001) |
 
 !!! note "TODO"
     Add the exact crowdfunding campaign link and a short list of what we keep /
@@ -32,6 +41,8 @@ redrawn from scratch.
 | R5 | Base holds a console/PC with ventilation and cable routing |
 | R6 | Buildable from sheet material with standard tools; CNC/laser optional |
 | R7 | Total BOM cost target to be defined at v0.1 |
+| R8 | Optimised cut list (target: minimum number of standard sheets, e.g. 16 mm plywood), all drawings metric |
+| R9 | Complete wiring diagram, power-button/shutdown wiring and a "what is included / not included" note in the build guide |
 
 ## Open questions
 

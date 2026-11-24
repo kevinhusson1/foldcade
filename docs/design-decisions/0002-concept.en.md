@@ -16,3 +16,6 @@ from scratch; no copied drawings, artwork or branding.
 ## To decide before v0.1
 Fold mechanism, screen size/ratio, computer platform, material, target budget,
 overall dimensions. Each gets its own ADR (0003+).
+
+## Sales-page lessons
+The reference plan set (paid, ~US$15) separates scope, exclusions and parts list clearly. We copy that clarity, not its content; its licence terms are not stated on the page, so we assume nothing and reuse none of its drawings.

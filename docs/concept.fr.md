@@ -15,7 +15,16 @@ tous les dessins sont refaits de zéro.
 | Référence | Ce que nous retenons |
 |---|---|
 | Une borne d'arcade commerciale refermable (financée par crowdfunding ; référence à ajouter — voir TODO) | Meuble de rangement à double porte, module d'arcade transformable, aspect « meuble », façade en aplats de couleur, 2 joysticks + 6 boutons par joueur |
-| *« This Arcade Machine is hidden in plain sight! And This is how I Built It! »* d'Alexandre Chappel — <https://youtu.be/OB8VauGEvqg> | Méthode de construction maison, principe de la borne cachée, outillage d'atelier |
+| *« This Arcade Machine is hidden in plain sight! And This is how I Built It! »* d'Alexandre Chappel — <https://youtu.be/OB8VauGEvqg> | Méthode de construction maison, principe de la borne cachée, outillage d'atelier. Sa [page de vente](https://www.alch.shop/projects/p/arcade-cabinet) propose des plans payants (dessins métriques, fichiers d'impression 3D, liste de pièces avec liens, vidéos de ressources) pour une borne réalisée dans **une seule plaque de contreplaqué de 16 mm**, sur Raspberry Pi avec RetroPie. |
+
+### Ce que nous gardons, changeons et ajoutons par rapport à ces plans
+
+| | Garder | Changer / ajouter |
+|---|---|---|
+| Matériau | Construction en panneaux, **dessins métriques**, petites pièces imprimées en 3D | Vérifier si toute la borne tient encore dans peu de plaques (optimisation de débit, voir R8) |
+| Documentation | Liste de pièces avec liens, vidéos de ressources, note claire « ce qui est inclus » | **Libre et gratuite**, avec **schéma de câblage complet** et guide de sécurité (la référence exclut explicitement l'électronique), nomenclature avec quantités, prix et alternatives, bilingue |
+| Périmètre | 2 joueurs, logiciel de type RetroPie | Meuble refermable avec rangement (première référence) |
+| Licence | — | Licences ouvertes avec mention obligatoire (voir ADR 0001) |
 
 !!! note "TODO"
     Ajouter le lien exact de la campagne de financement et la liste de ce que
@@ -32,6 +41,8 @@ tous les dessins sont refaits de zéro.
 | R5 | Le meuble accueille console/PC avec ventilation et passage de câbles |
 | R6 | Réalisable en panneaux avec outils standards ; CNC/laser optionnel |
 | R7 | Budget cible de la nomenclature à définir pour la v0.1 |
+| R8 | Débit optimisé (objectif : nombre minimal de plaques standard, ex. contreplaqué 16 mm), tous les dessins en métrique |
+| R9 | Schéma de câblage complet, câblage du bouton marche/arrêt, et note « inclus / non inclus » dans le guide de montage |
 
 ## Questions ouvertes
 
