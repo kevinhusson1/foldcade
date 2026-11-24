@@ -14,7 +14,7 @@ tous les dessins sont refaits de zéro.
 
 | Référence | Ce que nous retenons |
 |---|---|
-| Une borne d'arcade commerciale refermable (financée par crowdfunding ; référence à ajouter — voir TODO) | Meuble de rangement à double porte, module d'arcade transformable, aspect « meuble », façade en aplats de couleur, 2 joysticks + 6 boutons par joueur |
+| *Swap Arcade* de Les Cookson & Ken Higginson, Kickstarter 2026 ([campagne](https://www.kickstarter.com/projects/amat/swap-arcade-full-arcade-that-turns-into-a-furniture-cabinet/description)) | Meuble de rangement à double porte, module d'arcade transformable, aspect « meuble », façade en aplats de couleur, 2 joysticks + 6 boutons par joueur |
 | *« This Arcade Machine is hidden in plain sight! And This is how I Built It! »* d'Alexandre Chappel — <https://youtu.be/OB8VauGEvqg> | Méthode de construction maison, principe de la borne cachée, outillage d'atelier. Sa [page de vente](https://www.alch.shop/projects/p/arcade-cabinet) propose des plans payants (dessins métriques, fichiers d'impression 3D, liste de pièces avec liens, vidéos de ressources) pour une borne réalisée dans **une seule plaque de contreplaqué de 16 mm**, sur Raspberry Pi avec RetroPie. |
 
 ### Ce que nous gardons, changeons et ajoutons par rapport à ces plans
@@ -26,9 +26,15 @@ tous les dessins sont refaits de zéro.
 | Périmètre | 2 joueurs, logiciel de type RetroPie | Meuble refermable avec rangement (première référence) |
 | Licence | — | Licences ouvertes avec mention obligatoire (voir ADR 0001) |
 
-!!! note "TODO"
-    Ajouter le lien exact de la campagne de financement et la liste de ce que
-    nous gardons / changeons (dimensions, mécanisme, matériaux, prix cible).
+!!! info "Ce que nous savons de Swap Arcade"
+    D'après la page publique de la campagne : jeux rétro intégrés **et** connexion
+    à Switch, PlayStation, PC et plus ; se transforme en meuble ; construite en
+    MDF, bois dur et contreplaqué ; pièces réparables et remplaçables (joysticks,
+    boutons, câbles, électronique). Ses spécifications détaillées, dimensions et
+    mécanisme ne nous étaient pas accessibles, donc rien n'est supposé ici.
+
+    Le mécanisme étudié en détail vient de la seconde référence : voir
+    [ADR 0003](design-decisions/0003-fold-mechanism.md).
 
 ## Exigences fonctionnelles (brouillon)
 

@@ -42,3 +42,4 @@ nav:
   - Design decisions:
       - design-decisions/0001-licensing.md
       - design-decisions/0002-concept.md
+      - design-decisions/0003-fold-mechanism.md

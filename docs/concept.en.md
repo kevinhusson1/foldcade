@@ -14,7 +14,7 @@ redrawn from scratch.
 
 | Reference | What we retain |
 |---|---|
-| A commercial closable arcade cabinet (crowdfunded; reference to be added — see TODO) | Storage base with double doors, transformable arcade module, clean "furniture" look, colour-blocked front, 2 joysticks + 6 buttons per player |
+| *Swap Arcade* by Les Cookson & Ken Higginson, Kickstarter 2026 ([campaign](https://www.kickstarter.com/projects/amat/swap-arcade-full-arcade-that-turns-into-a-furniture-cabinet/description)) | Storage base with double doors, transformable arcade module, clean "furniture" look, colour-blocked front, 2 joysticks + 6 buttons per player |
 | *"This Arcade Machine is hidden in plain sight! And This is how I Built It!"* by Alexandre Chappel — <https://youtu.be/OB8VauGEvqg> | Homemade construction method, hidden-arcade principle, workshop-level tooling. Its [sales page](https://www.alch.shop/projects/p/arcade-cabinet) sells paid plans (metric drawings, 3D-print files, parts list with links, video resources) for a cabinet built from **a single sheet of 16 mm plywood**, on a Raspberry Pi with RetroPie. |
 
 ### What we keep, change and add vs. the plan set above
@@ -26,9 +26,15 @@ redrawn from scratch.
 | Scope | 2 players, RetroPie-style software | Closable furniture-style base with storage (first reference) |
 | Licence | — | Open licences with mandatory credit (see ADR 0001) |
 
-!!! note "TODO"
-    Add the exact crowdfunding campaign link and a short list of what we keep /
-    change (dimensions, mechanism, materials, price target).
+!!! info "What we know about Swap Arcade"
+    From the public campaign page: built-in retro gaming **plus** connection to
+    Switch, PlayStation, PC and more; swaps into a furniture cabinet; built from
+    MDF, hardwood and plywood; serviceable, replaceable parts (joysticks, buttons,
+    cables, electronics). Its detailed specs, dimensions and mechanism were not
+    available to us, so they are not assumed here.
+
+    The mechanism we study in depth comes from the second reference: see
+    [ADR 0003](design-decisions/0003-fold-mechanism.md).
 
 ## Functional requirements (draft)
 
