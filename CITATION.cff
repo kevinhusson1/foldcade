@@ -5,4 +5,4 @@ type: software
 license: CERN-OHL-P-2.0
 authors:
   - name: "The FoldCade contributors"
-repository-code: "https://github.com/OWNER/foldcade"
+repository-code: "https://github.com/kevinhusson1/foldcade"

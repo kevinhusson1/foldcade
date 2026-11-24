@@ -16,7 +16,7 @@ the plans come from.**
 1. Put this sentence where customers or readers can see it (website, product page,
    manual, plans' title block):
 
-   > Based on the FoldCade open-source arcade cabinet project — https://github.com/OWNER/foldcade — licensed CERN-OHL-P-2.0 / MIT / CC BY 4.0.
+   > Based on the FoldCade open-source arcade cabinet project — https://github.com/kevinhusson1/foldcade — licensed CERN-OHL-P-2.0 / MIT / CC BY 4.0.
 
 2. For physical products, add the same mention (or a QR code to the repository)
    in the manual or on a label inside the cabinet.
@@ -42,7 +42,7 @@ FoldCade est libre d'utilisation, y compris commerciale. En contrepartie,
 1. Placez cette phrase à un endroit visible des clients ou lecteurs (site, fiche
    produit, notice, cartouche des plans) :
 
-   > Basé sur le projet open source de borne d'arcade FoldCade — https://github.com/OWNER/foldcade — sous licences CERN-OHL-P-2.0 / MIT / CC BY 4.0.
+   > Basé sur le projet open source de borne d'arcade FoldCade — https://github.com/kevinhusson1/foldcade — sous licences CERN-OHL-P-2.0 / MIT / CC BY 4.0.
 
 2. Pour un produit physique, ajoutez la même mention (ou un QR code vers le
    dépôt) dans la notice ou sur une étiquette à l'intérieur de la borne.
@@ -54,4 +54,4 @@ produit. Une construction privée et non commerciale n'exige aucune étiquette,
 mais une photo et un lien retour sont toujours les bienvenus.
 
 ---
-<!-- TODO: replace OWNER with the GitHub organisation name once created. -->
+

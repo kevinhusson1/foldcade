@@ -1,8 +1,7 @@
 site_name: FoldCade
 site_description: Open-source transformable arcade cabinet / Borne d'arcade open source transformable
-# TODO: set site_url and repo_url once the GitHub organisation exists
-# site_url: https://OWNER.github.io/foldcade/
-# repo_url: https://github.com/OWNER/foldcade
+site_url: https://kevinhusson1.github.io/foldcade/
+repo_url: https://github.com/kevinhusson1/foldcade
 docs_dir: docs
 theme:
   name: material
