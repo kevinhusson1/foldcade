@@ -7,8 +7,11 @@
 The hidden-arcade build by Alexandre Chappel (see [concept](../concept.md)) uses
 a **tilting box-door that rotates 90°**: the cabinet front is a hollow volume
 that becomes the control desk once lowered. The summary below is a technical
-analysis supplied by the project owner; it describes that reference build and
-has not been verified by us on the physical object.
+analysis supplied by the project owner; it describes that reference build. It
+was **cross-checked on 2026-11-24 against the video transcript**
+([logbook 0001](../journal/0001-reference-analysis.md)): every point in the table
+is confirmed. The video also shows that the front panel already fell once when
+removed with a suction cup (three corners broken).
 
 ## Reference mechanism (summary)
 
@@ -48,3 +51,11 @@ has not been verified by us on the physical object.
 references, not to pick one. A dedicated [design study](../study-hybrid-concept.md)
 will compare options A, B and hybrids, and its outcome will be recorded in ADR 0004.
 Option A is listed as the best-documented starting point, nothing more.
+
+## Update (2026-11-24)
+Decision D1 in [logbook 0002](../journal/0002-scoping.md) requires a **floor-standing,
+movable** cabinet with no wall fixing. Option A is therefore ruled out **as is**
+(wall cabinet on a cleat). Its principle, a box-door that tilts down and becomes the
+control desk, remains a **candidate building block** for a floor-standing cabinet.
+The "French cleat" point above no longer applies; the "Heat" point now concerns a
+powerful PC, not a Raspberry Pi (R5).

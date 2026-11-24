@@ -8,7 +8,10 @@ La borne cachée d'Alexandre Chappel (voir [concept](../concept.md)) repose sur
 une **porte-caisson basculante à 90°** : la façade du meuble est un volume creux
 qui devient le pupitre de commande une fois abaissé. Le résumé ci-dessous est
 une analyse technique fournie par le porteur du projet ; elle décrit cette
-réalisation de référence et n'a pas été vérifiée par nous sur l'objet réel.
+réalisation de référence. Elle a été **recoupée le 2026-11-24 avec la transcription
+de la vidéo** ([journal 0001](../journal/0001-reference-analysis.md)) : tous les
+points du tableau sont confirmés. La vidéo montre aussi que la façade est déjà
+tombée une fois lors d'un démontage à la ventouse (trois coins cassés).
 
 ## Mécanisme de référence (résumé)
 
@@ -47,3 +50,11 @@ réalisation de référence et n'a pas été vérifiée par nous sur l'objet ré
 deux références, pas d'en choisir une. Une [étude de conception](../study-hybrid-concept.md)
 dédiée comparera les options A, B et des hybrides ; son résultat sera acté dans l'ADR 0004.
 L'option A est citée comme point de départ le mieux documenté, rien de plus.
+
+## Mise à jour (2026-11-24)
+La décision D1 du [journal 0002](../journal/0002-scoping.md) impose un meuble **posé
+au sol et déplaçable**, sans fixation murale. L'option A est donc écartée **telle
+quelle** (meuble mural sur tasseau). Son principe, une porte-caisson qui bascule et
+devient le pupitre, reste une **brique candidate** à intégrer dans un meuble posé au
+sol. Le point « French cleat » ci-dessus devient sans objet ; le point « Chaleur »
+s'applique désormais à un PC puissant, pas à un Raspberry Pi (R5).

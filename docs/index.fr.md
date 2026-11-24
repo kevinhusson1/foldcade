@@ -9,6 +9,7 @@ un meuble.
 - [Concept](concept.md) — ce que nous construisons et pourquoi
 - [Sécurité](safety.md) — à lire en premier
 - [Feuille de route](roadmap.md) — jalons
+- [Journal de bord](journal/index.md) — chaque étape et chaque itération
 - [Guide de montage](build-guide/index.md) — pas à pas (prévu avec la v0.2)
 - [Juridique](legal.md) — licences, attribution, jeux et ROMs
 

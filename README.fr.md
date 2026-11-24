@@ -39,12 +39,16 @@ ouverts, nomenclature honnête et guide de montage accessible à tous.
 
 ## Objectifs
 
-- ✅ 2 joueurs, 2 joysticks, 6 boutons chacun, boutons start / crédit
+- ✅ 2 joueurs, 1 joystick et 6 à 8 boutons chacun, boutons start / crédit
+- ✅ Meuble **posé au sol et déplaçable**, sans fixation murale
+- ✅ **PC puissant** : toutes les consoles rétro, PS3, Xbox 360, Switch, voire PS4
+- ✅ **Commandes de mouvement** : vraies Wiimotes et capteur intégré
 - ✅ Écran, haut-parleurs et ordinateur masqués ou protégés une fois replié
-- ✅ Rangement pour console / accessoires dans le meuble
-- ✅ Réalisable avec un atelier standard (ou découpe CNC / laser)
+- ✅ Rangement et recharge des manettes dans le meuble
+- ✅ Réalisable avec des **outils de base et une imprimante 3D**, sans CNC
 - ✅ Documentation bilingue (FR / EN), nomenclature avec alternatives et prix
-- ✅ Sécurité d'abord : secteur, poussières, points de pincement documentés
+- ✅ Sécurité d'abord : secteur, chaleur, stabilité, points de pincement documentés
+- ✅ **Journal de bord** public : chaque itération reste visible
 
 ## Plan du dépôt
 
@@ -58,7 +62,7 @@ ouverts, nomenclature honnête et guide de montage accessible à tous.
 
 ## Pour commencer
 
-1. Lisez le [concept](docs/concept.fr.md) et les [règles de sécurité](docs/safety.fr.md).
+1. Lisez le [concept](docs/concept.fr.md), le [journal de bord](docs/journal/index.fr.md) et les [règles de sécurité](docs/safety.fr.md).
 2. Suivez la [feuille de route](docs/roadmap.fr.md) et choisissez une *good first issue* dans l'onglet Issues.
 3. À la sortie : téléchargez le paquet v0.x dans **Releases** (plans de découpe, nomenclature, STL).
 

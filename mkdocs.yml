@@ -32,11 +32,16 @@ plugins:
             Legal: Juridique
             Build guide: Guide de montage
             Design decisions: Décisions de conception
+            Logbook: Journal de bord
 nav:
   - Home: index.md
   - Concept: concept.md
   - Safety: safety.md
   - Roadmap: roadmap.md
+  - Logbook:
+      - journal/index.md
+      - journal/0001-reference-analysis.md
+      - journal/0002-scoping.md
   - Design study: study-hybrid-concept.md
   - Legal: legal.md
   - Build guide: build-guide/index.md

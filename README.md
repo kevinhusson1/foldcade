@@ -38,12 +38,16 @@ bill of materials and a build guide anyone can follow.
 
 ## Goals
 
-- ✅ 2 players, 2 joysticks, 6 buttons each, start/coin buttons
+- ✅ 2 players, 1 joystick and 6 to 8 buttons each, start/coin buttons
+- ✅ **Floor-standing, movable** cabinet, no wall fixing
+- ✅ **Powerful PC**: all retro consoles, PS3, Xbox 360, Switch, maybe PS4
+- ✅ **Motion controls**: real Wiimotes and a built-in sensor
 - ✅ Screen, speakers and computer hidden or protected when folded
-- ✅ Storage for a console / accessories in the base
-- ✅ Buildable with a standard workshop (or CNC / laser cutting)
+- ✅ Gamepad storage and charging inside the cabinet
+- ✅ Buildable with **basic tools and a 3D printer**, no CNC
 - ✅ Bilingual documentation (EN / FR), BOM with alternatives and prices
-- ✅ Safety-first: mains power, dust, pinch points are documented
+- ✅ Safety-first: mains power, heat, stability, pinch points are documented
+- ✅ Public **logbook**: every iteration stays visible
 
 ## Repository map
 
@@ -57,7 +61,7 @@ bill of materials and a build guide anyone can follow.
 
 ## Get started
 
-1. Read the [concept](docs/concept.en.md) and the [safety rules](docs/safety.en.md).
+1. Read the [concept](docs/concept.en.md), the [logbook](docs/journal/index.en.md) and the [safety rules](docs/safety.en.md).
 2. Follow the [roadmap](docs/roadmap.en.md) and pick a *good first issue* in the Issues tab.
 3. When released: download the v0.x package from **Releases** (cutting plans, BOM, STL).
 

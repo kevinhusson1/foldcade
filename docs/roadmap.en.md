@@ -9,4 +9,5 @@
 | **v1.0 Release** | Stable, reproducible | Reviewed plans, full bilingual build guide, software image, release package |
 | **Later** | Variants | Kit/CNC version, alternative screen sizes, 3D-printed parts |
 
-Progress is tracked in GitHub Projects and Milestones.
+Progress is tracked in GitHub Projects and Milestones. Every completed step gets
+an entry in the [logbook](journal/index.md).

@@ -13,9 +13,15 @@
 
 ## Jeux et ROMs
 
-FoldCade ne distribue **aucun jeu, ROM ou BIOS**. N'utilisez que des jeux que vous
-possédez ou sous licence libre / homebrew. Ne demandez ni ne publiez de ROMs
-protégées dans les issues, discussions ou pull requests.
+FoldCade ne distribue **aucun jeu, ROM, BIOS, firmware ni clé de chiffrement**, et
+n'indique aucune source pour en obtenir. N'utilisez que des jeux que vous possédez
+ou sous licence libre / homebrew, et des fichiers système extraits de votre propre
+matériel, dans le respect de la loi de votre pays. Ne demandez ni ne publiez de
+ROMs, firmwares ou clés protégés dans les issues, discussions ou pull requests.
+
+L'émulation de consoles récentes (Switch en particulier) fait l'objet d'actions en
+justice de la part de certains fabricants : la documentation se limite à la
+configuration d'émulateurs open source et du matériel.
 
 ## Marques
 

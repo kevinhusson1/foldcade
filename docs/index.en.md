@@ -9,6 +9,7 @@ piece of furniture.
 - [Concept](concept.md) — what we are building and why
 - [Safety](safety.md) — read this first
 - [Roadmap](roadmap.md) — milestones
+- [Logbook](journal/index.md) — every step and iteration
 - [Build guide](build-guide/index.md) — step by step (coming with v0.2)
 - [Legal](legal.md) — licences, attribution, games and ROMs
 

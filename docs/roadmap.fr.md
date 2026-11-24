@@ -9,4 +9,5 @@
 | **v1.0 Release** | Stable et reproductible | Plans relus, guide de montage bilingue complet, image logicielle, paquet de release |
 | **Ensuite** | Variantes | Version kit/CNC, autres tailles d'écran, pièces imprimées en 3D |
 
-L'avancement est suivi dans GitHub Projects et les Milestones.
+L'avancement est suivi dans GitHub Projects et les Milestones. Chaque étape
+terminée fait l'objet d'une entrée dans le [journal de bord](journal/index.md).

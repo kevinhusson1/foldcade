@@ -13,9 +13,15 @@ at the repository root for the exact wording.
 
 ## Games and ROMs
 
-FoldCade distributes **no games, ROMs or BIOS files**. Only use games you own or
-that are freely licensed / homebrew. Do not request or post copyrighted ROMs in
-issues, discussions or pull requests.
+FoldCade distributes **no games, ROMs, BIOS files, firmware or encryption keys**,
+and points to no source for them. Only use games you own or that are freely
+licensed / homebrew, and system files dumped from your own hardware, in line with
+the law of your country. Do not request or post copyrighted ROMs, firmware or keys
+in issues, discussions or pull requests.
+
+Emulation of recent consoles (the Switch in particular) has been the subject of
+lawsuits by some manufacturers: the documentation is limited to configuring
+open-source emulators and the hardware.
 
 ## Trademarks
 

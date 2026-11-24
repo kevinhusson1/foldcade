@@ -8,13 +8,19 @@
 - Mains (110–240 V) wiring must be done by a competent person, following local
   regulations. Use a certified, fused power supply and an earthed inlet.
 - Never open a CRT/monitor or PSU while plugged in. Keep cables strain-relieved.
-- Provide ventilation for the computer/console in the base.
+- Provide ventilation for the computer/console in the base. A powerful PC can
+  dissipate several hundred watts: active ventilation, cleanable dust filters, no
+  blocked vents, heat-resistant materials (no PLA near hot parts).
 
 ## Mechanism & structure
 
 - Folding parts are heavy: use damped, rated gas struts/hinges and a mechanical lock.
 - Check for pinch points; no finger gap in the moving range.
-- Stability: the cabinet must not tip when open. Anchor to a wall if needed.
+- Stability: the cabinet must not tip when open, closed, or when someone leans on
+  the control panel. It is designed to stand without wall fixing: low centre of
+  gravity, wide base, tip test before use.
+- Mobility: only move the cabinet closed, with moving parts locked and cables
+  unplugged; lock the caster brakes once in place.
 - Not for unsupervised use by young children until validated.
 
 ## Workshop
