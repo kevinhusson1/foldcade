@@ -44,6 +44,7 @@ has not been verified by us on the physical object.
 - **Heat:** a closed box with a Raspberry Pi needs ventilation (R5).
 
 ## Decision
-Prototype **option A** first because it is the best-documented and the cheapest
-to validate; keep option B open. Final choice recorded in a later ADR after the
-v0.3 prototype.
+**No choice yet.** The goal is to design the best solution *between* the two
+references, not to pick one. A dedicated [design study](../study-hybrid-concept.md)
+will compare options A, B and hybrids, and its outcome will be recorded in ADR 0004.
+Option A is listed as the best-documented starting point, nothing more.

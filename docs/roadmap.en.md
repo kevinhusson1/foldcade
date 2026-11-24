@@ -2,6 +2,7 @@
 
 | Milestone | Goal | Deliverables |
 |---|---|---|
+| **v0.0 Design study** | Find the best solution between the two references | [Study](study-hybrid-concept.md), scoring, ADR 0004 |
 | **v0.1 Concept** | Define the product | Requirements, dimensions, mechanism choice, 3D concept render, first BOM, safety checklist |
 | **v0.2 Prototype plans** | Buildable drawings | CAD (FreeCAD) + STEP/DXF, cutting plans, electronics wiring, build guide draft |
 | **v0.3 Prototype built** | Validate by building | Build log with photos, measured BOM cost, fixes fed back into plans |

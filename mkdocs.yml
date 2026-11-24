@@ -29,6 +29,7 @@ plugins:
             Concept: Concept
             Safety: Sécurité
             Roadmap: Feuille de route
+            Design study: Étude de conception
             Legal: Juridique
             Build guide: Guide de montage
             Design decisions: Décisions de conception
@@ -37,6 +38,7 @@ nav:
   - Concept: concept.md
   - Safety: safety.md
   - Roadmap: roadmap.md
+  - Design study: study-hybrid-concept.md
   - Legal: legal.md
   - Build guide: build-guide/index.md
   - Design decisions:

@@ -43,6 +43,7 @@ réalisation de référence et n'a pas été vérifiée par nous sur l'objet ré
 - **Chaleur :** un caisson fermé avec un Raspberry Pi demande une ventilation (R5).
 
 ## Décision
-Prototyper d'abord l'**option A**, la mieux documentée et la moins chère à valider ;
-garder l'option B ouverte. Le choix final sera acté dans un ADR ultérieur après le
-prototype v0.3.
+**Pas encore de choix.** Le but est de concevoir la meilleure solution *entre* les
+deux références, pas d'en choisir une. Une [étude de conception](../study-hybrid-concept.md)
+dédiée comparera les options A, B et des hybrides ; son résultat sera acté dans l'ADR 0004.
+L'option A est citée comme point de départ le mieux documenté, rien de plus.

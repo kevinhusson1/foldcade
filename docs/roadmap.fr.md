@@ -2,6 +2,7 @@
 
 | Jalon | Objectif | Livrables |
 |---|---|---|
+| **v0.0 Étude de conception** | Trouver la meilleure solution entre les deux références | [Étude](study-hybrid-concept.md), notation, ADR 0004 |
 | **v0.1 Concept** | Définir le produit | Exigences, dimensions, choix du mécanisme, rendu 3D du concept, première nomenclature, liste de contrôle sécurité |
 | **v0.2 Plans de prototype** | Dessins constructibles | CAO (FreeCAD) + STEP/DXF, plans de découpe, schéma de câblage, brouillon du guide de montage |
 | **v0.3 Prototype construit** | Valider en construisant | Journal de construction avec photos, coût réel de la nomenclature, corrections reportées dans les plans |
