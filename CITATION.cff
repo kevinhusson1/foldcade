@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you build on this project, please credit it (see ATTRIBUTION.md)."
+title: "FoldCade — open-source transformable arcade cabinet"
+type: software
+license: CERN-OHL-P-2.0
+authors:
+  - name: "The FoldCade contributors"
+repository-code: "https://github.com/OWNER/foldcade"

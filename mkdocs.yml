@@ -1,0 +1,44 @@
+site_name: FoldCade
+site_description: Open-source transformable arcade cabinet / Borne d'arcade open source transformable
+# TODO: set site_url and repo_url once the GitHub organisation exists
+# site_url: https://OWNER.github.io/foldcade/
+# repo_url: https://github.com/OWNER/foldcade
+docs_dir: docs
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+          nav_translations:
+            Home: Accueil
+            Concept: Concept
+            Safety: Sécurité
+            Roadmap: Feuille de route
+            Legal: Juridique
+            Build guide: Guide de montage
+            Design decisions: Décisions de conception
+nav:
+  - Home: index.md
+  - Concept: concept.md
+  - Safety: safety.md
+  - Roadmap: roadmap.md
+  - Legal: legal.md
+  - Build guide: build-guide/index.md
+  - Design decisions:
+      - design-decisions/0001-licensing.md
+      - design-decisions/0002-concept.md

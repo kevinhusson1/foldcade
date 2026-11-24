@@ -1,0 +1,24 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Build output
+site/
+__pycache__/
+*.pyc
+# CAD backups & temp
+*.FCBak
+*.FCStd1
+*.f3z.bak
+*~
+*.kicad_prl
+*-backups/
+fp-info-cache
+# Secrets
+.env
+
+# Third-party reference images (not redistributed)
+assets/references/*.webp
+assets/references/*.png
+assets/references/*.jpg
